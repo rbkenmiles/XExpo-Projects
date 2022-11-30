@@ -1,3 +1,5 @@
+//Add condition 10011,11001 and others to see As of 08:23 AM
+
 const int ir1 = 22;
 const int ir2 = 23;
 const int ir3 = 24;
